@@ -1,0 +1,1 @@
+# collection-FOR-donate.com
