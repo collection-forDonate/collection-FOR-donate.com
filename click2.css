@@ -1,0 +1,48 @@
+
+.cr{
+	font-family: 'Showcard Gothic';
+	font-size: 30px;
+	text-decoration: underline;
+	text-shadow: 5px 5px 6px #b5020e;
+	color: #0320ad;
+}
+body{
+    background: url('https://cdn.cnn.com/cnnnext/dam/assets/210624160540-20210623-myanmar-junta-diplomats-new-large-169.jpg');
+    background-repeat: no-repeat; fixed;
+    border-radius: 10px 20px 40px 60px;
+    background-size: 60%;
+    background-position: center top;
+
+
+    
+}
+ .ab{
+ 	font-family: 'Showcard Gothic';
+ 	font font-weight: 900;
+ 	font-style: italic;
+    color: #b5020e;
+    text-shadow: 5px 5px 6px yellow;
+ }
+ ul{
+ 	
+ 	list-style-type: decimal-leading-zero;
+ 	 color: blue;
+	background-color: hotpink;
+	   font-family: 'Segoe Print';
+	   border-radius: 10px 20px 40px 60px;
+	   list-style-position: inside;
+ }
+ h3{
+ 	color: #b5020e;
+ 	font-family: 'Showcard Gothic';
+ 	text-shadow: 5px 5px 6px #0f09b5;
+ }
+ .dd{
+   font-size: 70%;
+   color: black;
+         font-family: 'Algerian';
+         text-shadow: 9px 9px 9px #b5020e;
+ }
+ h1{
+   color: #fc0307;
+ }
